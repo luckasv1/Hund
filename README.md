@@ -1,7 +1,4 @@
-# [Api hund](http://luckas.dk/hund)
-
-
-
+# [Api hund]
 
 **[Tjek den ud på min hjemmeside](http://luckas.dk/hund)**
 
