@@ -3,7 +3,7 @@
 
 
 
-**[View Live Preview](http://luckas.dk/hund)**
+**[Tjek den ud på min hjemmeside](http://luckas.dk/hund)**
 
 ### Beskrivelse
 
